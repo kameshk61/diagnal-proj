@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/diagnal-proj/static/css/main.1b2bb19c.chunk.css",
+    "main.js": "/diagnal-proj/static/js/main.03ba0cc3.chunk.js",
+    "main.js.map": "/diagnal-proj/static/js/main.03ba0cc3.chunk.js.map",
+    "runtime-main.js": "/diagnal-proj/static/js/runtime-main.f1d2da69.js",
+    "runtime-main.js.map": "/diagnal-proj/static/js/runtime-main.f1d2da69.js.map",
+    "static/js/2.20e42d9e.chunk.js": "/diagnal-proj/static/js/2.20e42d9e.chunk.js",
+    "static/js/2.20e42d9e.chunk.js.map": "/diagnal-proj/static/js/2.20e42d9e.chunk.js.map",
+    "index.html": "/diagnal-proj/index.html",
+    "precache-manifest.a6dbde18498c060cdd4c9cdf2be885ed.js": "/diagnal-proj/precache-manifest.a6dbde18498c060cdd4c9cdf2be885ed.js",
+    "service-worker.js": "/diagnal-proj/service-worker.js",
+    "static/css/main.1b2bb19c.chunk.css.map": "/diagnal-proj/static/css/main.1b2bb19c.chunk.css.map",
+    "static/js/2.20e42d9e.chunk.js.LICENSE.txt": "/diagnal-proj/static/js/2.20e42d9e.chunk.js.LICENSE.txt",
+    "static/media/poster1.jpg": "/diagnal-proj/static/media/poster1.d5f2a7f4.jpg",
+    "static/media/poster2.jpg": "/diagnal-proj/static/media/poster2.81ccf144.jpg",
+    "static/media/poster3.jpg": "/diagnal-proj/static/media/poster3.e242f037.jpg",
+    "static/media/poster4.jpg": "/diagnal-proj/static/media/poster4.56f09724.jpg",
+    "static/media/poster5.jpg": "/diagnal-proj/static/media/poster5.5ef7f794.jpg",
+    "static/media/poster6.jpg": "/diagnal-proj/static/media/poster6.164b05a3.jpg",
+    "static/media/poster7.jpg": "/diagnal-proj/static/media/poster7.23ac494a.jpg",
+    "static/media/poster8.jpg": "/diagnal-proj/static/media/poster8.ef89f612.jpg",
+    "static/media/poster9.jpg": "/diagnal-proj/static/media/poster9.65d6d500.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1d2da69.js",
+    "static/js/2.20e42d9e.chunk.js",
+    "static/css/main.1b2bb19c.chunk.css",
+    "static/js/main.03ba0cc3.chunk.js"
+  ]
+}

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5ed2a8877da215f36f01c144020771f3",
+    "revision": "c5bf769b3e86fa4fa1ae281f3bc988d7",
     "url": "/diagnal-proj/index.html"
   },
   {
-    "revision": "e3535ac200a45986f3ef",
+    "revision": "c4edd7a2fe7aab61c476",
     "url": "/diagnal-proj/static/css/main.1b2bb19c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diagnal-proj/static/js/2.7c415221.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e3535ac200a45986f3ef",
-    "url": "/diagnal-proj/static/js/main.feb10db9.chunk.js"
+    "revision": "c4edd7a2fe7aab61c476",
+    "url": "/diagnal-proj/static/js/main.39f6f22e.chunk.js"
   },
   {
     "revision": "e1027e78de9e447f0d8f",
